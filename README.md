@@ -44,32 +44,28 @@ Music for the people that don't have a phone but instead have to use a chromeboo
 <br>Rich - NAV
 <audio src="resources\Rich.mp3" controls></audio>
 <br>Brown Boy - NAV
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
-<br>Enter Song Title Here
-<audio src="resources\unknown.mp3" controls></audio>
+<audio src="resources\BrownBoy.mp3" controls></audio>
+<br>Champion - NAV
+<audio src="resources\Champion.mp3" controls></audio>
+<br>Coast to Coast - NAV
+<audio src="resources\CoastToCoast.mp3" controls></audio>
+<br>Codeine - NAV
+<audio src="resources\Codeine.mp3" controls></audio>
+<br>Good Intentions - NAV
+<audio src="resources\GoodIntentions.mp3" controls></audio>
+<br>Price On My Head - NAV
+<audio src="resources\PriceOnMyHead.mp3" controls></audio>
+<br>Turks - NAV
+<audio src="resources\Turks.mp3" controls></audio>
+<br>Vetement Socks - NAV
+<audio src="resources\VetementSocks.mp3" controls></audio>
+<br>200 FOR LUNCH - Gunna
+<audio src="resources\200ForLunch.mp3" controls></audio>
+<br>At The Hotel - Gunna
+<audio src="resources\AtTheHotel.mp3" controls></audio>
+<br>Blindfold - Gunna
+<audio src="resources\Blindfold.mp3" controls></audio>
+<br>Car Sick - Gunna
+<audio src="resources\CarSick.mp3" controls></audio>
+<br>Life Goes On - Lil Baby
+<audio src="resources\LifeGoesOn.mp3" controls></audio>
